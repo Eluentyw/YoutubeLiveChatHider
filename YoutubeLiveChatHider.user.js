@@ -3,6 +3,8 @@
 // @name:ja      ニコニコ動画風コメント流しYouTube拡張機能用チャット欄隠し
 // @namespace    https://github.com/Eluentyw
 // @version      1.2
+// @updateURL    https://raw.githubusercontent.com/Eluentyw/YoutubeLiveChatHider/main/YoutubeLiveChatHider.user.js
+// @downloadURL  https://raw.githubusercontent.com/Eluentyw/YoutubeLiveChatHider/main/YoutubeLiveChatHider.user.js
 // @description  Visually hides the chat sidebar to save screen space while keeping the chat connection active. This allows Niconico-style comment overlay extensions (such as YouTube LiveChat Flusher and Danmage) to function properly without the chat bar taking up the screen.
 // @description:ja チャット欄を見かけ上非表示にしつつ、裏では接続を維持します。これにより、チャット欄が邪魔になることなく、チャットをニコニコ動画風に流す拡張機能(YouTube LiveChat FlusherやDanmageなど)を正常に動作させます。
 // @match        https://www.youtube.com/*
@@ -171,4 +173,5 @@
     } else {
         init();
     }
+
 })();
