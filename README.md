@@ -13,7 +13,7 @@ YouTubeのライブチャットをニコニコ動画風に表示する拡張機�
 
 ## 注意
 * このスクリプトはYouTubeの**シアターモード**の仕様を前提としています。シアターモード以外ではレイアウトが崩れる可能性があります。
-
+## インストール
 * [スクリプトをインストールする](https://raw.githubusercontent.com//Eluentyw/YoutubeLiveChatHider/main/YoutubeLiveChatHider.user.js)
 
 ---
@@ -32,5 +32,5 @@ It solves the problem: "I need to keep the chat window open to receive comments 
 
 ## Notes
 * This script is optimized for YouTube's **Theater Mode**. The layout might look incorrect in other viewing modes.
-
+## Install
 * [Install script](https://raw.githubusercontent.com//Eluentyw/YoutubeLiveChatHider/main/YoutubeLiveChatHider.user.js)
